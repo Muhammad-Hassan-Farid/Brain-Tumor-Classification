@@ -1,0 +1,25 @@
+p,input {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#mydiv {
+    height: 300px;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 10%;
+    border: 2px solid white;
+    border-radius: 50px;
+    background-color: rgba(240, 248, 255, 0.7); /* Adjust the alpha value (0.7) to change the opacity */
+}
+
+
+input[type='submit']{
+    color: Black;
+    background-color: #c58a15;
+    width: 100px;
+    border-radius: 50px;
+    height: 60px;
+}
